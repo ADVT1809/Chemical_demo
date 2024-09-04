@@ -1,2 +1,1 @@
-# Chemical_demo
-My first chemical demo app
+# chemistry_app_demo
